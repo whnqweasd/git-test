@@ -1,4 +1,4 @@
 hello git
 hello git again
-hello git again
 hello linux
+dev change
